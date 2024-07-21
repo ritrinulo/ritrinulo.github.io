@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ritrinulo.github.io/sitemap
+Sitemap: https://ritrinulo.github.io/app/sitemap
+Sitemap: https://ritrinulo.github.io/assets/sitemap
+Sitemap: https://ritrinulo.github.io/css/sitemap
+Sitemap: https://ritrinulo.github.io/includes/sitemap
+Sitemap: https://ritrinulo.github.io/item/sitemap
+Sitemap: https://ritrinulo.github.io/src/sitemap
